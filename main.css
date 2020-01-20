@@ -29,13 +29,13 @@ img {
     max-width: 100%;
     height: auto;
     width: auto;
-    object-fit: fill;
+    object-fit: contain;
 }
 
 img.profile-pic {
 	height: auto;
 	width: auto;
-	object-fit: fill;
+	object-fit: cover;
 }
 
 .container {
