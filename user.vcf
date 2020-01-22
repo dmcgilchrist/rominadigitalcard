@@ -6,9 +6,12 @@ FN: Romina  Estrada
 ORG:Proyecto Nodo Norte;
 TITLE:Co-Founder\nCreative Director
 EMAIL;type=INTERNET;type=WORK;type=pref:proyectonodonorte@gmail.com
+EMAIL;type=INTERNET;type=WORK;type=pref:destinationereka@gmail.com
 TEL;type=WORK;type=VOICE:+34 675 62 92 11
 item1.URL;type=pref:nodo-norte.com
 item1.X-ABLabel:_$!<HomePage>!$_
 item2.URL;type=pref:www.instagram.com/proyectonodonorte
 item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL;type=pref:www.instagram.com/destinationereka
+item3.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
